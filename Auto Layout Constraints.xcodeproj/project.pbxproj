@@ -16,6 +16,8 @@
 		5ADF77A323F675DE003E8382 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ADF77A123F675DE003E8382 /* LaunchScreen.storyboard */; };
 		5ADF77AE23F675DE003E8382 /* Auto_Layout_ConstraintsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADF77AD23F675DE003E8382 /* Auto_Layout_ConstraintsTests.swift */; };
 		5ADF77B923F675DE003E8382 /* Auto_Layout_ConstraintsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADF77B823F675DE003E8382 /* Auto_Layout_ConstraintsUITests.swift */; };
+		5ADF77C723F67CB8003E8382 /* larry david.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5ADF77C623F67CB8003E8382 /* larry david.jpg */; };
+		5ADF77CB23F72A99003E8382 /* larry david 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5ADF77CA23F72A99003E8382 /* larry david 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		5ADF77B423F675DE003E8382 /* Auto Layout ConstraintsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Auto Layout ConstraintsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ADF77B823F675DE003E8382 /* Auto_Layout_ConstraintsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto_Layout_ConstraintsUITests.swift; sourceTree = "<group>"; };
 		5ADF77BA23F675DE003E8382 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5ADF77C623F67CB8003E8382 /* larry david.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "larry david.jpg"; sourceTree = "<group>"; };
+		5ADF77CA23F72A99003E8382 /* larry david 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "larry david 1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		5ADF779223F675DD003E8382 /* Auto Layout Constraints */ = {
 			isa = PBXGroup;
 			children = (
+				5ADF77C623F67CB8003E8382 /* larry david.jpg */,
+				5ADF77CA23F72A99003E8382 /* larry david 1.jpg */,
 				5ADF779323F675DD003E8382 /* AppDelegate.swift */,
 				5ADF779523F675DD003E8382 /* SceneDelegate.swift */,
 				5ADF779723F675DD003E8382 /* ViewController.swift */,
@@ -235,8 +241,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5ADF77C723F67CB8003E8382 /* larry david.jpg in Resources */,
 				5ADF77A323F675DE003E8382 /* LaunchScreen.storyboard in Resources */,
 				5ADF77A023F675DE003E8382 /* Assets.xcassets in Resources */,
+				5ADF77CB23F72A99003E8382 /* larry david 1.jpg in Resources */,
 				5ADF779B23F675DD003E8382 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
